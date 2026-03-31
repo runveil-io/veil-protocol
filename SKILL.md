@@ -11,6 +11,19 @@ description: >-
   "decentralized inference".
 ---
 
+## Current Status: TESTNET — Building in Public
+
+```
+[x] Protocol design + whitepaper (15 chapters)
+[x] Core implementation (36/36 tests passing)
+[x] End-to-end verified: Consumer → Relay → Provider → Claude
+[x] Streaming + envelope encryption
+[ ] Multi-provider support
+[ ] On-chain settlement (Solana)
+[ ] TOKEN economics
+[ ] RBOB build system live
+```
+
 ## Overview
 
 Veil Protocol is a decentralized network for AI inference.
